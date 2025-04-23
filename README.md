@@ -1,9 +1,9 @@
-# 🛍️ Shopify Landing Page - Open Source
+# 🛍️ Shopify Landing - Open Source
 
 A sleek, mobile-responsive Shopify landing page built using the latest frontend tools. This project is perfect for showcasing a product with engaging animations, clear pricing, testimonials, and a contact section to drive conversions.
 
 ## 🚀 Live Demo
-[View Live](https://your-demo-link.netlify.app) *(Replace with your live link)*
+[View Live](https://shopify-landing-kn3v.onrender.com) *(Replace with your live link)*
 
 ---
 
@@ -36,7 +36,7 @@ A sleek, mobile-responsive Shopify landing page built using the latest frontend 
 git clone https://github.com/your-username/shopify-landing-page.git
 
 # Navigate into the project
-cd shopify-landing-page
+cd shopify-landing
 
 # Install dependencies
 npm install
